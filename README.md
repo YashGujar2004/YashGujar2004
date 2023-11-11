@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @YashGujar2004
+- 👀 I’m interested ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me www.linkedin.com/in/yash-gujar-3ba130261
+<!---
+YashGujar2004/YashGujar2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
